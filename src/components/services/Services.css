@@ -107,7 +107,8 @@
 /* Small screens */
 @media (max-width: 768px) {
     .services {
-        align-items: flex-start;
+           align-items: center;
+
         gap: 50px;
         margin: 30px 50px;
     }

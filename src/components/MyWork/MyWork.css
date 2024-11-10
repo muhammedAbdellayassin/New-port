@@ -91,7 +91,8 @@
 /* Small screens */
 @media (max-width: 768px) {
   .mywork {
-    align-items: start;
+        align-items: center;
+
     gap: 50px;
     margin: 30px 50px;
   }
